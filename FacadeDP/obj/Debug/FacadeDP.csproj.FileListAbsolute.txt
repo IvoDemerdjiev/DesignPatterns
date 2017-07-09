@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\FacadeDP\bin\Debug\FacadeDP.exe.config
+E:\C#\Tree\DesignPatterns\FacadeDP\obj\Debug\FacadeDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\FacadeDP\bin\Debug\FacadeDP.exe
+E:\C#\Tree\DesignPatterns\FacadeDP\bin\Debug\FacadeDP.pdb
+E:\C#\Tree\DesignPatterns\FacadeDP\obj\Debug\FacadeDP.exe
+E:\C#\Tree\DesignPatterns\FacadeDP\obj\Debug\FacadeDP.pdb

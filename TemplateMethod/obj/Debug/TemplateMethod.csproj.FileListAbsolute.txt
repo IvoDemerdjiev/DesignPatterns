@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+E:\C#\Tree\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+E:\C#\Tree\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+E:\C#\Tree\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+E:\C#\Tree\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

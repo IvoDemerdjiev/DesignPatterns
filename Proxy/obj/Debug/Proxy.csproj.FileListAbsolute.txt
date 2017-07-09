@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+E:\C#\Tree\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+E:\C#\Tree\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+E:\C#\Tree\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+E:\C#\Tree\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

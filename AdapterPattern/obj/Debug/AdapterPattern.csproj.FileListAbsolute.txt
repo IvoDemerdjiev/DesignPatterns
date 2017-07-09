@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\C#\Tree\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\C#\Tree\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\C#\Tree\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\C#\Tree\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb

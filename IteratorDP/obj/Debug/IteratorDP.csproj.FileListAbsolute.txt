@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\IteratorDP\bin\Debug\IteratorDP.exe.config
+E:\C#\Tree\DesignPatterns\IteratorDP\bin\Debug\IteratorDP.exe
+E:\C#\Tree\DesignPatterns\IteratorDP\bin\Debug\IteratorDP.pdb
+E:\C#\Tree\DesignPatterns\IteratorDP\obj\Debug\IteratorDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\IteratorDP\obj\Debug\IteratorDP.exe
+E:\C#\Tree\DesignPatterns\IteratorDP\obj\Debug\IteratorDP.pdb

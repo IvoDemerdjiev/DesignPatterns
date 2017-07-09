@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\CompositeDP\bin\Debug\CompositeDP.exe.config
+E:\C#\Tree\DesignPatterns\CompositeDP\bin\Debug\CompositeDP.exe
+E:\C#\Tree\DesignPatterns\CompositeDP\bin\Debug\CompositeDP.pdb
+E:\C#\Tree\DesignPatterns\CompositeDP\obj\Debug\CompositeDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\CompositeDP\obj\Debug\CompositeDP.exe
+E:\C#\Tree\DesignPatterns\CompositeDP\obj\Debug\CompositeDP.pdb

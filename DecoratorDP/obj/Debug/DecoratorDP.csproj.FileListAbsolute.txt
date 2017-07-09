@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\DecoratorDP\bin\Debug\DecoratorDP.exe.config
+E:\C#\Tree\DesignPatterns\DecoratorDP\bin\Debug\DecoratorDP.exe
+E:\C#\Tree\DesignPatterns\DecoratorDP\bin\Debug\DecoratorDP.pdb
+E:\C#\Tree\DesignPatterns\DecoratorDP\obj\Debug\DecoratorDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\DecoratorDP\obj\Debug\DecoratorDP.exe
+E:\C#\Tree\DesignPatterns\DecoratorDP\obj\Debug\DecoratorDP.pdb

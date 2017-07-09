@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\StrategyDP\bin\Debug\StrategyDP.exe.config
+E:\C#\Tree\DesignPatterns\StrategyDP\obj\Debug\StrategyDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\StrategyDP\bin\Debug\StrategyDP.exe
+E:\C#\Tree\DesignPatterns\StrategyDP\bin\Debug\StrategyDP.pdb
+E:\C#\Tree\DesignPatterns\StrategyDP\obj\Debug\StrategyDP.exe
+E:\C#\Tree\DesignPatterns\StrategyDP\obj\Debug\StrategyDP.pdb

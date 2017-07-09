@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\BridgeDP\bin\Debug\BridgeDP.exe.config
+E:\C#\Tree\DesignPatterns\BridgeDP\bin\Debug\BridgeDP.exe
+E:\C#\Tree\DesignPatterns\BridgeDP\bin\Debug\BridgeDP.pdb
+E:\C#\Tree\DesignPatterns\BridgeDP\obj\Debug\BridgeDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\BridgeDP\obj\Debug\BridgeDP.exe
+E:\C#\Tree\DesignPatterns\BridgeDP\obj\Debug\BridgeDP.pdb

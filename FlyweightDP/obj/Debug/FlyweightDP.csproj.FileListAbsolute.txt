@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\FlyweightDP\bin\Debug\FlyweightDP.exe.config
+E:\C#\Tree\DesignPatterns\FlyweightDP\bin\Debug\FlyweightDP.exe
+E:\C#\Tree\DesignPatterns\FlyweightDP\bin\Debug\FlyweightDP.pdb
+E:\C#\Tree\DesignPatterns\FlyweightDP\obj\Debug\FlyweightDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\FlyweightDP\obj\Debug\FlyweightDP.exe
+E:\C#\Tree\DesignPatterns\FlyweightDP\obj\Debug\FlyweightDP.pdb

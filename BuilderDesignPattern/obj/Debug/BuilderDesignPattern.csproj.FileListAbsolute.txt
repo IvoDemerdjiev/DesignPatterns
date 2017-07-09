@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+E:\C#\Tree\DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+E:\C#\Tree\DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+E:\C#\Tree\DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+E:\C#\Tree\DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

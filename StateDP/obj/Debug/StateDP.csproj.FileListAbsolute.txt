@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\StateDP\bin\Debug\StateDP.exe.config
+E:\C#\Tree\DesignPatterns\StateDP\bin\Debug\StateDP.exe
+E:\C#\Tree\DesignPatterns\StateDP\bin\Debug\StateDP.pdb
+E:\C#\Tree\DesignPatterns\StateDP\obj\Debug\StateDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\StateDP\obj\Debug\StateDP.exe
+E:\C#\Tree\DesignPatterns\StateDP\obj\Debug\StateDP.pdb

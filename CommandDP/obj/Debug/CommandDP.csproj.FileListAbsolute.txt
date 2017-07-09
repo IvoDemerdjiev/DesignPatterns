@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\CommandDP\bin\Debug\CommandDP.exe.config
+E:\C#\Tree\DesignPatterns\CommandDP\bin\Debug\CommandDP.exe
+E:\C#\Tree\DesignPatterns\CommandDP\bin\Debug\CommandDP.pdb
+E:\C#\Tree\DesignPatterns\CommandDP\obj\Debug\CommandDP.exe
+E:\C#\Tree\DesignPatterns\CommandDP\obj\Debug\CommandDP.pdb

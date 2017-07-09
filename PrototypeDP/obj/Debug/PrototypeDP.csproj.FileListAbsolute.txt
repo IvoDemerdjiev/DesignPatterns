@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\PrototypeDP\bin\Debug\PrototypeDP.exe.config
+E:\C#\Tree\DesignPatterns\PrototypeDP\bin\Debug\PrototypeDP.exe
+E:\C#\Tree\DesignPatterns\PrototypeDP\bin\Debug\PrototypeDP.pdb
+E:\C#\Tree\DesignPatterns\PrototypeDP\obj\Debug\PrototypeDP.exe
+E:\C#\Tree\DesignPatterns\PrototypeDP\obj\Debug\PrototypeDP.pdb
+E:\C#\Tree\DesignPatterns\PrototypeDP\obj\Debug\PrototypeDP.csprojResolveAssemblyReference.cache

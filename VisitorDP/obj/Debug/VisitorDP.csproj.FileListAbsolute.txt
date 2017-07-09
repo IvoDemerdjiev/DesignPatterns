@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\VisitorDP\bin\Debug\VisitorDP.exe.config
+E:\C#\Tree\DesignPatterns\VisitorDP\bin\Debug\VisitorDP.exe
+E:\C#\Tree\DesignPatterns\VisitorDP\bin\Debug\VisitorDP.pdb
+E:\C#\Tree\DesignPatterns\VisitorDP\obj\Debug\VisitorDP.exe
+E:\C#\Tree\DesignPatterns\VisitorDP\obj\Debug\VisitorDP.pdb

@@ -1,0 +1,5 @@
+E:\C#\Tree\DesignPatterns\SingletonDP\bin\Debug\SingletonDP.exe.config
+E:\C#\Tree\DesignPatterns\SingletonDP\bin\Debug\SingletonDP.exe
+E:\C#\Tree\DesignPatterns\SingletonDP\bin\Debug\SingletonDP.pdb
+E:\C#\Tree\DesignPatterns\SingletonDP\obj\Debug\SingletonDP.exe
+E:\C#\Tree\DesignPatterns\SingletonDP\obj\Debug\SingletonDP.pdb

@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\MementoDP\bin\Debug\MementoDP.exe.config
+E:\C#\Tree\DesignPatterns\MementoDP\bin\Debug\MementoDP.exe
+E:\C#\Tree\DesignPatterns\MementoDP\bin\Debug\MementoDP.pdb
+E:\C#\Tree\DesignPatterns\MementoDP\obj\Debug\MementoDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\MementoDP\obj\Debug\MementoDP.exe
+E:\C#\Tree\DesignPatterns\MementoDP\obj\Debug\MementoDP.pdb

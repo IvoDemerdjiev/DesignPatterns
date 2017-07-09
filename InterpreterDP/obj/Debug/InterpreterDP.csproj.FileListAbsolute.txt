@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\InterpreterDP\bin\Debug\InterpreterDP.exe.config
+E:\C#\Tree\DesignPatterns\InterpreterDP\bin\Debug\InterpreterDP.exe
+E:\C#\Tree\DesignPatterns\InterpreterDP\bin\Debug\InterpreterDP.pdb
+E:\C#\Tree\DesignPatterns\InterpreterDP\obj\Debug\InterpreterDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\InterpreterDP\obj\Debug\InterpreterDP.exe
+E:\C#\Tree\DesignPatterns\InterpreterDP\obj\Debug\InterpreterDP.pdb

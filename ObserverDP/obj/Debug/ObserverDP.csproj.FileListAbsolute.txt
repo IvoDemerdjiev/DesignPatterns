@@ -1,0 +1,6 @@
+E:\C#\Tree\DesignPatterns\ObserverDP\bin\Debug\ObserverDP.exe.config
+E:\C#\Tree\DesignPatterns\ObserverDP\bin\Debug\ObserverDP.exe
+E:\C#\Tree\DesignPatterns\ObserverDP\bin\Debug\ObserverDP.pdb
+E:\C#\Tree\DesignPatterns\ObserverDP\obj\Debug\ObserverDP.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DesignPatterns\ObserverDP\obj\Debug\ObserverDP.exe
+E:\C#\Tree\DesignPatterns\ObserverDP\obj\Debug\ObserverDP.pdb
